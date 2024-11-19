@@ -1,4 +1,6 @@
 # EDGE-DETECTION
+### EXP : 6
+### DATE : 30 / 9 / 24
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
@@ -22,8 +24,8 @@ Using Sobel operator from cv2,detect the edges of the image.
 
 Using Laplacian operator from cv2,detect the edges of the image and Using Canny operator from cv2,detect the edges of the image.
 
-## Developed By : DHARSHAN V
-## Register Number: 212222230031
+## Developed By : MANOJ M
+## Register Number: 212221240027
 
 ## INPUT /OUTPUT
 ## ORGINAL IMAGE
