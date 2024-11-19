@@ -24,8 +24,8 @@ Using Sobel operator from cv2,detect the edges of the image.
 
 Using Laplacian operator from cv2,detect the edges of the image and Using Canny operator from cv2,detect the edges of the image.
 
-## Developed By : MANOJ M
-## Register Number: 212221240027
+#### Developed By : MANOJ M
+#### Register Number: 212221240027
 
 ## INPUT /OUTPUT
 ## ORGINAL IMAGE
